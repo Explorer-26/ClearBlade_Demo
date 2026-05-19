@@ -10,8 +10,8 @@ from datetime import datetime
 SYSTEM_KEY = ""
 SYSTEM_SECRET = ""
 
-EMAIL = "simulator@demo.com"
-PASSWORD = "abc@123"
+EMAIL = ""
+PASSWORD = ""
 
 BASE_URL = "https://platform.clearblade.com"
 
